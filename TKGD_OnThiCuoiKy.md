@@ -1144,4 +1144,4 @@ Web UI nên ưu tiên khi:
 - người dùng không thường xuyên;
 - mục tiêu là truy cập rộng và triển khai nhanh.
 
-Kết luận: Application UI phù hợp với **tác vụ nặng, thường xuyên, cần offline, cần truy cập sâu vào phần cứng/hệ điều hành và workflow phức tạp**. Web UI phù hợp với **khả năng truy cập rộng, triển khai nhanh, ít cài đặt và sử dụng không quá chuyên sâu**.
+Kết luận: Application UI phù hợp với **tác vụ nặng, thường xuyên, cần offline, cần truy cập sâu vào phần cứng/hệ điều hành, cần bảo mật hoặc kiểm soát dữ liệu cục bộ đặc biệt và workflow phức tạp**. Web UI phù hợp với **khả năng truy cập rộng, triển khai nhanh, ít cài đặt và sử dụng không quá chuyên sâu**.

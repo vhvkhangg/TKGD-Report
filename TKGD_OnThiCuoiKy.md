@@ -52,13 +52,13 @@ Các mục tiêu nghiên cứu chính của HCI:
 - đặt người dùng ở trung tâm các pha phát triển;
 - tập trung vào các mục tiêu usability;
 - dựa trên các yếu tố nhận thức của con người;
-- xem việc phát triển hệ thống tương tác là hoạt động đa ngành, không chỉ là lập trình.
+- xem việc phát triển hệ thống tương tác là hoạt động đa ngành.
 
 ### Nguyên tắc cơ bản của UCD
 
 1. **Nếu có vấn đề, hãy xem hệ thống là vấn đề trước, không đổ lỗi cho người dùng.**  
 
-2. **Người dùng kiểm soát chương trình, không phải chương trình kiểm soát người dùng.**  
+2. **Người dùng kiểm soát chương trình.**  
 
 3. **Cung cấp phản hồi rõ ràng.**  
 
@@ -74,7 +74,7 @@ UCD giúp:
 
 - giảm chi phí sửa lỗi muộn vì phát hiện vấn đề từ sớm;
 - tăng sự hài lòng và năng suất của người dùng;
-- tạo sản phẩm đúng nhu cầu thật, không chỉ đúng giả định của nhóm phát triển;
+- tạo sản phẩm đúng nhu cầu thật;
 - giảm lỗi thao tác, giảm chi phí hỗ trợ và đào tạo;
 - cải thiện khả năng chấp nhận sản phẩm.
 

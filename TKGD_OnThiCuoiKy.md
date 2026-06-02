@@ -56,7 +56,7 @@ Các mục tiêu nghiên cứu chính của HCI:
 
 ### Nguyên tắc cơ bản của UCD
 
-1. **Nếu có vấn đề, hãy xem hệ thống là vấn đề trước, không đổ lỗi cho người dùng.**  
+1. **Nếu có vấn đề, hãy xem hệ thống là vấn đề trước.**  
 
 2. **Người dùng kiểm soát chương trình.**  
 

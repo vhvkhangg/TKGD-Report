@@ -592,7 +592,7 @@ Từ scenario này có thể rút ra yêu cầu: đăng nhập, chọn chuyên k
 
 ## 11.2. Use Case là gì?
 
-**Use Case** mô tả tương tác giữa người dùng/hệ thống ngoài với hệ thống để đạt một mục tiêu. Tài liệu nêu use case:
+**Use Case** là 1 thuật ngữ mô tả tương tác giữa người dùng/hệ thống ngoài với hệ thống để đạt một mục tiêu. Tài liệu nêu use case:
 
 - mô tả sự tương tác giữa người và hệ thống;
 - use case diagram trình bày yêu cầu chức năng;

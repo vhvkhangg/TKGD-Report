@@ -168,10 +168,8 @@ Lý do: Đây là nơi lỗi thường xảy ra nhất. Nếu hiểu sai ngườ
 Trong HCI, con người là mục tiêu cuối cùng của mọi hệ thống. Thiết kế giao diện phải hiểu người dùng vì:
 
 1. **Người dùng có khả năng khác nhau.**  
-   Có người mới dùng, có người chuyên gia, có người dùng không thường xuyên.
 
-2. **Người dùng có thói quen thao tác khác nhau.**  
-	Nếu giao diện đi ngược quy ước quen thuộc, người dùng dễ thao tác sai hoặc mất thời gian học lại.  
+2. **Người dùng có thói quen thao tác khác nhau.**   
 
 3. **Người dùng thường mắc lỗi và nhầm lẫn.**  
 
@@ -758,27 +756,20 @@ Khi sắp xếp bố cục, cần cân nhắc:
 1. **Mục tiêu nhiệm vụ của màn hình**  
 
 2. **Menu và điều hướng**  
-   Menu phải chứa đủ chức năng hệ thống.
 
 3. **Vùng nhập liệu**  
-   Nhóm trường liên quan, nhãn rõ, tab order đúng, có default value, validation.
 
 4. **Vùng hiển thị dữ liệu**  
-   Bảng/list cần tiêu đề cột, căn lề, nhóm dữ liệu, phân trang hoặc cuộn hợp lý.
 
 5. **Vùng lệnh/hành động**  
-   Nút chính phải nổi bật; nút nguy hiểm cần cảnh báo; hành động phụ không nên cạnh tranh với hành động chính.
 
 6. **Feedback và trạng thái**  
-   Hiển thị loading, lỗi, thành công, trạng thái rỗng, trạng thái disabled.
 
 7. **Khoảng cách, màu sắc, typography**  
-   Dùng spacing và border để nhóm; màu sắc phải dễ nhìn; chữ đủ đọc; không lạm dụng hiệu ứng.
 
 8. **Tính nhất quán**  
 
 9. **Đối tượng người dùng**  
-   Người mới cần dễ học; người dùng không thường xuyên cần dễ nhớ; chuyên gia cần thao tác nhanh.
 
 ### 15.2. “Đúng trước, tiện lợi sau” nghĩa là gì?
 
@@ -844,11 +835,11 @@ DECIDE là khung lập kế hoạch đánh giá gồm:
 ### Các bước tiến hành
 
 1. **Xác định phạm vi giao diện cần đánh giá.**
-2. **Chọn bộ heuristics:** ví dụ Nielsen’s 10 Heuristics.
+2. **Chọn bộ heuristics**
 3. **Chọn 3–5 evaluator.**
-4. **Mỗi evaluator đánh giá độc lập:** đi qua màn hình/luồng thao tác, ghi lỗi.
-5. **Ghi nhận mỗi vấn đề:** heuristic bị vi phạm, vị trí, mô tả, severity, fixability, đề xuất sửa.
-6. **Tổng hợp kết quả:** gộp vấn đề trùng, phân loại theo severity.
+4. **Mỗi evaluator đánh giá độc lập** 
+5. **Ghi nhận mỗi vấn đề** 
+6. **Tổng hợp kết quả**
 7. **Ưu tiên sửa lỗi và redesign.**
 
 ### Ưu điểm

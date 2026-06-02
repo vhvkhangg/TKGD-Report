@@ -224,7 +224,6 @@ Kết luận: thiết kế giao diện tốt phải phù hợp với cách con n
 **Cognition** là quá trình con người làm quen với sự vật và thu nhận tri thức. Trong HCI, hiểu cognition giúp thiết kế giao diện phù hợp với cách người dùng chú ý, nhận biết, ghi nhớ và học thao tác. Nếu bỏ qua cognition, giao diện có thể:
 
 - làm người dùng không thấy thông tin quan trọng;
-- dùng icon khó phân biệt;
 - bắt người dùng nhớ quy trình dài;
 - khiến người mới khó học;
 - làm tăng lỗi và giảm năng suất.
